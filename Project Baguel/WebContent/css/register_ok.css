@@ -1,0 +1,17 @@
+/* ##################  main start ################## */
+main {
+  height: 650px;
+  animation: fadein 2s;
+}
+
+#addOk h1 {
+  display: block;
+  text-align: center;
+  margin: 200px auto;
+  max-width: 800px;
+  font-size: 45px;
+}
+.welcome {
+  font-size: 30px;
+}
+/* ##################  main end ################## */
